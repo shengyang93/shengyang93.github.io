@@ -55,26 +55,26 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: Tsinghua University
-    date_start: 2014-09
-    date_end: 2019-07
+    date_start: 2014-09-01
+    date_end: 2019-07-01
   - area: BEng in Computer Science
     institution: Wuhan University
-    date_start: 2010-09
-    date_end: 2014-07
+    date_start: 2010-09-01
+    date_end: 2014-07-01
 
 work:
   - position: Staff Research Engineer
     company_name: Alibaba - Cainiao
-    date_start: 2024-04
+    date_start: 2024-04-01
     date_end: ''
   - position: Senior Research Engineer
     company_name: Alibaba - Cainiao/DAMO Academy
-    date_start: 2020-08
-    date_end: 2024-03
+    date_start: 2020-08-01
+    date_end: 2024-03-31
   - position: SDE II (Research)
     company_name: Alibaba - DAMO Academy
-    date_start: 2019-07
-    date_end: 2020-08
+    date_start: 2019-07-18
+    date_end: 2020-07-31
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
