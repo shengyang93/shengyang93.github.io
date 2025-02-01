@@ -135,20 +135,20 @@ work:
 awards:
   - title: Advanced Computer Graphics
     url: https://cg.cs.tsinghua.edu.cn/course/
-    date: '2017'
+    date: '2017-09-01'
     awarder: Tsinghua University
     summary: |
       Teaching Assistant for graduated students. 2 sessions.
   - title: Fundamental of Computer Graphics
     url: https://cg.cs.tsinghua.edu.cn/course/
-    date: '2016'
+    date: '2016-09-01'
     awarder: Tsinghua University
     # icon: coursera
     summary: |
       Teaching Assistant for undergraduates (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)). 6 sessions.
   - title: C++ Programming
     url: https://www.xuetangx.com/course/THU08091000247
-    date: '2015'
+    date: '2015-09-01'
     awarder: Tsinghua University (Online)
     summary: |
       Online Teaching Assistants (1/4) for undergraduate students. 1 session.
