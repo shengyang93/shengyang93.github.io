@@ -58,7 +58,9 @@ education:
     date_start: 2014-09-01
     date_end: 2019-07-01
     summary: |
-      In [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/) and advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). Including:
+      [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
+      advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
+      Research Interests including:
       - 3D Reconstruction
       - Robotics
       - Simultaneous Localization and Mapping (SLAM)
@@ -67,15 +69,16 @@ education:
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
-      - Ranked 1/195 for recommending graduate study
-      - National Scholarship
+      Ranked 1/195 for recommending graduate study
+      National Scholarship
 work:
   - position: Staff Research Engineer
     company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
     date_start: 2024-04-01
     date_end: ''
     summary: |
-      Responsible for mass-production and cost-down of Map and data of unmanned vehicles, Additionally starts leading:
+      Responsible for mass-production and cost-down of **map** and **data**.
+      Additionally starts leading:
       - 3D Gaussian Splatting (3DGS) with AGI
       - Smart Data Labeling
   - position: Senior Research Engineer
@@ -83,9 +86,9 @@ work:
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
-      Serve as a Technical Product Manager (TPM) for SLAM & reconstruction systems in autonomous driving:
-      - May 2023, leading the SLAM team
-      - January 2022, leading the offline mapping team
+      Serve as a Tech-Leader for **SLAM & Reconstruction** systems.
+      Starts leading:
+      - Simultaneous Localization and Mapping (SLAM)
   - position: SDE II (Research)
     company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
     date_start: 2019-07-18
@@ -128,12 +131,12 @@ work:
 #         icon: camera
 
 # languages:
-#   - name: English
-#     percent: 100
+#   - name: Journal
+#     # percent: 100
 #   - name: Chinese
-#     percent: 75
+#     # percent: 75
 #   - name: Portuguese
-#     percent: 25
+#     # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -146,19 +149,22 @@ awards:
     awarder: Tsinghua University
     # icon: coursera
     summary: |
-      I served as a Teaching Assistant (TA) for undergraduate students (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), from 2016 to 2018 containing six sessions.
+      Teaching Assistant for undergraduate students (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)).
+      From 2016 to 2018 containing six sessions.
   - title: Advanced Computer graphics
     url: https://cg.cs.tsinghua.edu.cn/course/
     date: '2017-09-01'
     awarder: Tsinghua University
     summary: |
-      I served as a Teaching Assistant (TA) for graduated students, from 2017 to 2018 containing two sessions.
+      Teaching Assistant for graduated students.
+      From 2017 to 2018 containing two sessions.
   - title: C++ Programming
     url: https://www.xuetangx.com/course/THU08091000247
     date: '2015-09-01'
     awarder: Tsinghua University (Online)
     summary: |
-      I served as one of the Online Teaching Assistants (1/4) for undergraduate students, one session.
+      Online Teaching Assistants (1/4) for undergraduate students.
+      One session.
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
