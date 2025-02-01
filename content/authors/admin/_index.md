@@ -2,7 +2,7 @@
 # Display name
 title: 杨晟
 
-Name pronunciation (optional)
+# Name pronunciation (optional)
 name_pronunciation: Sheng Yang
 
 # Full name (for SEO)
