@@ -24,7 +24,7 @@ role: Staff Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Alibaba
+  - name: Alibaba, Cainiao
     url: https://www.cainiao.com
 
 # Social network links
@@ -60,27 +60,29 @@ education:
     summary: |
       [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
       advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
+
       Research Interests including:
-      - 3D Reconstruction
-      - Robotics
-      - Simultaneous Localization and Mapping (SLAM)
+      - 3D Reconstruction;
+      - Robotics and Simultaneous Localization and Mapping (SLAM).
   - area: BEng in Computer Science
     institution: Wuhan University
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
-      Ranked 1/195 for recommending graduate study
-      National Scholarship
+      Ranked 1/195 for recommending graduate study.
+
+      National Scholarship.
 work:
   - position: Staff Research Engineer
     company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
     date_start: 2024-04-01
     date_end: ''
     summary: |
-      Responsible for mass-production and cost-down of **map** and **data**.
+      Responsible for mass-production and cost-down of **Map** and **Data**.
+
       Additionally starts leading:
-      - 3D Gaussian Splatting (3DGS) with AGI
-      - Smart Data Labeling
+      - 3D Gaussian Splatting (3DGS) with AGI;
+      - Smart Data Labeling.
   - position: Senior Research Engineer
     company_name: Autonomous Driving Lab, DAMO Academy & Cainiao Inc., Alibaba Group
     date_start: 2020-08-01
@@ -88,13 +90,13 @@ work:
     summary: |
       Serve as a Tech-Leader for **SLAM & Reconstruction** systems.
       Starts leading:
-      - Simultaneous Localization and Mapping (SLAM)
+      - Simultaneous Localization and Mapping (SLAM).
   - position: SDE II (Research)
     company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
     date_start: 2019-07-18
     date_end: 2020-07-31
-    summary: |
-      Hands on Semantic SLAM algorithms for robotics.
+    # summary: |
+    #   Hands on Semantic SLAM algorithms for robotics.
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
@@ -143,6 +145,14 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Advanced Computer graphics
+    url: https://cg.cs.tsinghua.edu.cn/course/
+    date: '2017-09-01'
+    awarder: Tsinghua University
+    summary: |
+      Teaching Assistant for graduated students.
+
+      From 2017 to 2018 containing two sessions.
   - title: Fundamental of Computer Graphics
     url: https://cg.cs.tsinghua.edu.cn/course/
     date: '2016-09-01'
@@ -150,20 +160,15 @@ awards:
     # icon: coursera
     summary: |
       Teaching Assistant for undergraduate students (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)).
+
       From 2016 to 2018 containing six sessions.
-  - title: Advanced Computer graphics
-    url: https://cg.cs.tsinghua.edu.cn/course/
-    date: '2017-09-01'
-    awarder: Tsinghua University
-    summary: |
-      Teaching Assistant for graduated students.
-      From 2017 to 2018 containing two sessions.
   - title: C++ Programming
     url: https://www.xuetangx.com/course/THU08091000247
     date: '2015-09-01'
     awarder: Tsinghua University (Online)
     summary: |
       Online Teaching Assistants (1/4) for undergraduate students.
+
       One session.
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
