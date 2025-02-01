@@ -69,28 +69,20 @@ education:
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
-      Ranked 1/195 for recommending graduate study.
-
-      National Scholarship.
+      Ranked 1/195 for recommending graduate study. National Scholarship.
 work:
   - position: Staff Research Engineer
     company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
     date_start: 2024-04-01
     date_end: ''
     summary: |
-      Responsible for mass-production and cost-down of **Map** and **Data**.
-
-      Additionally starts leading:
-      - 3D Gaussian Splatting (3DGS) with AGI;
-      - Smart Data Labeling.
+      Responsible for mass-production and cost-down of map and data.
   - position: Senior Research Engineer
     company_name: Autonomous Driving Lab, DAMO Academy & Cainiao Inc., Alibaba Group
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
-      Serve as a Tech-Leader for **SLAM & Reconstruction** systems.
-      Starts leading:
-      - Simultaneous Localization and Mapping (SLAM).
+      Serve as a Tech-Leader for SLAM & Reconstruction systems.
   - position: SDE II (Research)
     company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
     date_start: 2019-07-18
@@ -150,26 +142,20 @@ awards:
     date: '2017-09-01'
     awarder: Tsinghua University
     summary: |
-      Teaching Assistant for graduated students.
-
-      From 2017 to 2018 containing two sessions.
+      Teaching Assistant for graduated students. 2 sessions.
   - title: Fundamental of Computer Graphics
     url: https://cg.cs.tsinghua.edu.cn/course/
     date: '2016-09-01'
     awarder: Tsinghua University
     # icon: coursera
     summary: |
-      Teaching Assistant for undergraduate students (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)).
-
-      From 2016 to 2018 containing six sessions.
+      Teaching Assistant for undergraduates (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)). 6 sessions.
   - title: C++ Programming
     url: https://www.xuetangx.com/course/THU08091000247
     date: '2015-09-01'
     awarder: Tsinghua University (Online)
     summary: |
-      Online Teaching Assistants (1/4) for undergraduate students.
-
-      One session.
+      Online Teaching Assistants (1/4) for undergraduate students. 1 session.
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
