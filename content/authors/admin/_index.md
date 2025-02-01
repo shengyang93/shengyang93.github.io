@@ -152,7 +152,6 @@ work:
 
 ## About Me
 
-I am an Staff Software Development Engineer (SDE) with the Unmanned Vehicle of Cainiao Inc, Alibaba Group, leading the Simultaneous Localization and Mapping (SLAM), 3D Gaussian Splatting (3DGS) with AGI, and Smart Data Labeling groups. I received a PhD degree from Tsinghua University in 2019, supervised by Prof. Shi-Min Hu. My primary research interest lies in (1) Cost-down map and data usage for L4 vehicles, (2) Improve driving agents through the mixture of real driving clips and generated contents.
+I am a Staff Software Development Engineer (SDE) with the Unmanned Vehicle of Cainiao Inc., Alibaba Group, leading the Simultaneous Localization and Mapping (SLAM), 3D Gaussian Splatting (3DGS) with AGI, and Smart Data Labeling groups. I received a PhD from Tsinghua University in 2019, supervised by Prof. Shi-Min Hu. My primary research interest lies in (1) Cost-down map and data usage for L4 unmanned vehicles, and (2) Improving driving agents through the mixture of real driving clips and generated contents.
 
-We are actively looking for research interns to work with at Hangzhou throughout the year. And our intern positions for fresh graduates (2026) will be release in March/April, 2025. Feel free to contact me through my company email shengyang(at)cainiao.com if you are interested in these positions.
-
+We are actively looking for research interns to work with at Hangzhou throughout the year. Our intern positions for fresh graduates (2026) will be released in March/April 2025. If you are interested in these positions, feel free to contact me through my company email, sheng yang (at)cainiao.com.
