@@ -2,8 +2,8 @@
 # Display name
 title: 杨晟
 
-# Name pronunciation (optional)
-# name_pronunciation: Sheng Yang
+Name pronunciation (optional)
+name_pronunciation: Sheng Yang
 
 # Full name (for SEO)
 first_name: Sheng
@@ -39,17 +39,17 @@ profiles:
   #   url: https://www.instagram.com/
   # - icon: brands/github
   #   url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=G6IztksAAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
 interests:
-  - Simultaneous Localization and Mapping (SLAM)
+  - Autonomous Driving
+  - SLAM and Perception
   - 3D Reconstruction and Vision
-  - Autonomous Driving and Perception
   - Productive Data Labeling
 
 education:
@@ -150,8 +150,8 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Short Bio
 
-I am a Staff Software Development Engineer (SDE) with the Unmanned Vehicle of Cainiao Inc., Alibaba Group, leading the Simultaneous Localization and Mapping (SLAM), 3D Gaussian Splatting (3DGS) with AGI, and Smart Data Labeling groups. I received a PhD from Tsinghua University in 2019, supervised by Prof. Shi-Min Hu. My primary research interest lies in (1) Cost-down map and data usage for L4 unmanned vehicles, and (2) Improving driving agents through the mixture of real driving clips and generated contents.
+I am a Staff Software Development Engineer (SDE) with the [Unmanned Vehicle of Cainiao Inc.](https://www.cainiao.com/technology-unmanned-vehicles.html), Alibaba Group, leading the Simultaneous Localization and Mapping (SLAM), 3D Gaussian Splatting (3DGS) with AGI, and Smart Data Labeling groups. I received a PhD from Tsinghua University in 2019, supervised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
 
 We are actively looking for research interns to work with at Hangzhou throughout the year. Our intern positions for fresh graduates (2026) will be released in March/April 2025. If you are interested in these positions, feel free to contact me through my company email, sheng yang (at)cainiao.com.
