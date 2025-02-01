@@ -30,17 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Ungoing Projects'
-      subtitle: ''
-      text: |-
-        |             |             |             |
-        |-------------|-------------|-------------|
-        |             |             |             |
-        | Coming Soon | Coming Soon | Coming Soon |
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: 'Ungoing Projects'
+  #     subtitle: ''
+  #     text: |-
+  #       |             |             |             |
+  #       |-------------|-------------|-------------|
+  #       |             |             |             |
+  #       | Coming Soon | Coming Soon | Coming Soon |
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:

@@ -60,10 +60,6 @@ education:
     summary: |
       [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
       advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
-
-      Research Interests including:
-      - 3D Reconstruction;
-      - Robotics and Simultaneous Localization and Mapping (SLAM).
   - area: BEng in Computer Science
     institution: Wuhan University
     date_start: 2010-09-01
