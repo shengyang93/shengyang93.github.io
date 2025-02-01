@@ -46,32 +46,32 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
-  - Autonomous Driving
-  - SLAM and Perception
-  - 3D Reconstruction and Vision
-  - Productive Data Labeling
+# interests:
+#   - Autonomous Driving
+#   - SLAM and Perception
+#   - 3D Reconstruction and Vision
+#   - Productive Data Labeling
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Computer Science, 2014~19
     institution: Tsinghua University
     date_start: 2014-09-01
     date_end: 2019-07-01
-  - area: BEng in Computer Science
+  - area: BEng in Computer Science, 2010~14
     institution: Wuhan University
     date_start: 2010-09-01
     date_end: 2014-07-01
 
 work:
-  - position: Staff Research Engineer
+  - position: Staff Research Engineer, 2024~
     company_name: Alibaba - Cainiao
     date_start: 2024-04-01
     date_end: ''
-  - position: Senior Research Engineer
+  - position: Senior Research Engineer, 2020~24
     company_name: Alibaba - Cainiao/DAMO Academy
     date_start: 2020-08-01
     date_end: 2024-03-31
-  - position: SDE II (Research)
+  - position: SDE II (Research), 2019~20
     company_name: Alibaba - DAMO Academy
     date_start: 2019-07-18
     date_end: 2020-07-31
