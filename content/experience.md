@@ -35,8 +35,6 @@ sections:
           - CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
         - **Conference Program Committee**
           - Computational Visual Media.
-      design:
-        css_style: "font-size: 1rem"
   - block: markdown
     content:
       title: 'Funding'
@@ -51,8 +49,6 @@ sections:
           - 2021-2022. Project Leader.
           - Cultivated 2 Ph.D. research interns.
           - Published 1 ECCV paper.
-      design:
-        css_style: "font-size: 1rem"
   - block: markdown
     content:
       title: 'Teaching Assistant'
@@ -66,8 +62,6 @@ sections:
         - **C++ Programming**
           - Tsinghua University. 2015. 1 semester.
           - Under-graduate course.
-      design:
-        css_style: "font-size: 1rem"
   # - block: resume-awards
   #   content:
   #     title: Teaching
