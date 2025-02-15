@@ -14,6 +14,7 @@ sections:
     design:
       date_format: 'January 2006'
       date_format_year_only: '2006'
+      spacing: '3rem'
   # - block: resume-awards
   #   content:
   #     title: Teaching
