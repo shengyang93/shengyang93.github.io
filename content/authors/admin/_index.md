@@ -82,27 +82,34 @@ education:
     summary: |
       Ranked 1/195 for recommending graduate study. National Scholarship.
 funding:
-  - title: Low-cost Learning-based Multi-sensor Localization
+  - title: Learning-based Low-cost Multi-sensor Localization
     institution: Alibaba-Zhejiang University Joint Institute of Frontier Technologies (AZFT)
+    role: Project Leader
     date_start: 2022-01-01
     date_end: 2023-01-01
-  - position: LiDAR Point Cloud Feature Extraction and SLAM
-    company_name: Alibaba Innovative Research (AIR)
+  - title: LiDAR Point Cloud Feature Extraction and SLAM
+    institution: Alibaba Innovative Research (AIR)
+    role: Project Leader
     date_start: 2021-01-01
     date_end: 2022-01-01
+  - title: Stree-View Representation and Processing
+    institution: Alibaba Innovative Research (AIR)
+    role: Project Student Member
+    date_start: 2014-01-01
+    date_end: 2016-01-01
 teachassist:
   - course: Advanced Computer Graphics
     institution: Tsinghua University. Post-graduate. 2 terms.
-    date_start: 2017-01-01
-    date_end: 2018-01-01
+    date_start: 2017-02-01
+    date_end: 2018-06-01
   - course: Fundamental of Computer Graphics
-    institution: Tsinghua University. Under-graduate. 6 terms.
-    date_start: 2016-01-01
-    date_end: 2018-01-01
+    institution: Tsinghua University. Under-graduate and Yao Class. 6 terms.
+    date_start: 2016-09-01
+    date_end: 2018-06-01
   - course: C++ Programming
     institution: Tsinghua University. Under-graduate. 1 term.
-    date_start: 2015-01-01
-    date_end: ''
+    date_start: 2015-09-01
+    date_end: 2016-01-01
 acaserv:
   - type: Journal Reviewer
     summary: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.

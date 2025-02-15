@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '3rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
@@ -14,7 +14,7 @@ sections:
     design:
       date_format: 'January 2006'
       date_format_year_only: '2006'
-      pad: '3rem'
+      pad: '5rem'
   # - block: resume-awards
   #   content:
   #     title: Teaching
