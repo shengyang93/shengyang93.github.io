@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Staff Research Engineer
+role: Staff Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,18 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:shengyang93fs@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=G6IztksAAAAJ&hl=en
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
 
 interests:
   - Autonomous Driving
@@ -52,20 +42,6 @@ interests:
   - 3D Reconstruction and Vision
   - Productive Data Labeling
 
-education:
-  - area: PhD in Computer Science
-    institution: Tsinghua University
-    date_start: 2014-09-01
-    date_end: 2019-07-01
-    summary: |
-      [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
-      advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
-  - area: BEng in Computer Science
-    institution: Wuhan University
-    date_start: 2010-09-01
-    date_end: 2014-07-01
-    summary: |
-      Ranked 1/195 for recommending graduate study. National Scholarship.
 work:
   - position: Staff Research Scientist (Staff SDE)
     company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
@@ -88,94 +64,52 @@ work:
     date_start: 2018-04-01
     date_end: 2018-09-01
   - position: Algorithm Engineer (Intern, Elite Camp)
-    company_name: Map Dept., DiDi Technology
+    company_name: High-Definition Map Dept., DiDi Technology
     date_start: 2017-04-01
     date_end: 2017-09-01
-
-# # Skills
-# # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
-
-# languages:
-#   - name: Journal
-#     # percent: 100
-#   - name: Chinese
-#     # percent: 75
-#   - name: Portuguese
-#     # percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Advanced Computer Graphics
-    url: https://cg.cs.tsinghua.edu.cn/course/
-    date: '2017-09-01'
-    awarder: Tsinghua University
+education:
+  - area: PhD in Computer Science
+    institution: Tsinghua University
+    date_start: 2014-09-01
+    date_end: 2019-07-01
     summary: |
-      Teaching Assistant for graduated students. 2 sessions.
-  - title: Fundamental of Computer Graphics
-    url: https://cg.cs.tsinghua.edu.cn/course/
-    date: '2016-09-01'
-    awarder: Tsinghua University
-    # icon: coursera
+      [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
+      advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
+  - area: BEng in Computer Science
+    institution: Wuhan University
+    date_start: 2010-09-01
+    date_end: 2014-07-01
     summary: |
-      Teaching Assistant for undergraduates (including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)). 6 sessions.
-  - title: C++ Programming
-    url: https://www.xuetangx.com/course/THU08091000247
-    date: '2015-09-01'
-    awarder: Tsinghua University (Online)
-    summary: |
-      Online Teaching Assistants (1/4) for undergraduate students. 1 session.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Ranked 1/195 for recommending graduate study. National Scholarship.
+funding:
+  - title: Low-cost Learning-based Multi-sensor Localization
+    institution: Alibaba-Zhejiang University Joint Institute of Frontier Technologies (AZFT)
+    date_start: 2022-01-01
+    date_end: 2023-01-01
+  - position: LiDAR Point Cloud Feature Extraction and SLAM
+    company_name: Alibaba Innovative Research (AIR)
+    date_start: 2021-01-01
+    date_end: 2022-01-01
+teachassist:
+  - course: Advanced Computer Graphics
+    institution: Tsinghua University. Post-graduate. 2 terms.
+    date_start: 2017-01-01
+    date_end: 2018-01-01
+  - course: Fundamental of Computer Graphics
+    institution: Tsinghua University. Under-graduate. 6 terms.
+    date_start: 2016-01-01
+    date_end: 2018-01-01
+  - course: C++ Programming
+    institution: Tsinghua University. Under-graduate. 1 term.
+    date_start: 2015-01-01
+    date_end: ''
+acaserv:
+  - type: Journal Reviewer
+    summary: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.
+  - type: Conference Reviewer
+    summary: ICRA, IROS, CVPR, ICCV, IEEE VR, CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
+  - type: Conference Program Committee
+    summary: Computational Visual Media.
 ---
 
 ## About Me
