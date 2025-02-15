@@ -10,47 +10,29 @@ design:
 
 # Page sections
 sections:
-  # - block: experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
-  # - block: experience
-  #   content:
-  #     username: admin2
-  #   design:
-  #     # Hugo date format
-  #     date_format: '2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
-  - block: experience
+  - block: resume-experience-customed
     content:
-      title: Experience
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Staff Research Scientist (Staff SDE)
-          company: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
-          # company_url: ''
-          # company_logo: org-gc
-          location: Hangzhou, China
-          date_start: '2024-04-01'
-          date_end: ''
-          description: |-
-              Responsible for mass-production and cost-down of map and data.
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      date_format_year_only: '2006'
+      # Education or Experience section first?
+      is_education_first: false
   # - block: resume-skills
   #   content:
   #     title: Teaching
   #     username: admin
   #   design:
   #     show_skill_percentage: false
+  # - block: resume-awards
+  #   content:
+  #     title: Teaching
+  #     username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
   - block: markdown
     content:
       title: 'Academic Services'
@@ -62,12 +44,5 @@ sections:
           - CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
         - **Conference Program Committee**
           - Computational Visual Media.
-  # - block: resume-awards
-  #   content:
-  #     title: Teaching
-  #     username: admin
-  # - block: resume-languages
-  #   content:
-  #     title: Languages
-  #     username: admin
+
 ---
