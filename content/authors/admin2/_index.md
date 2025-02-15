@@ -54,15 +54,15 @@ interests:
 
 education:
   - area: Advanced Computer Graphics
-    institution: Tsinghua University. Post-graduate course.
+    institution: Tsinghua University. Post-graduate. 2 terms.
     date_start: 2017-01-01
     date_end: 2018-01-01
   - area: Fundamental of Computer Graphics
-    institution: Tsinghua University. Under-graduate courses ([Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)).
+    institution: Tsinghua University. Under-graduate. 6 terms.
     date_start: 2016-01-01
     date_end: 2018-01-01
   - area: C++ Programming
-    institution: Tsinghua University. Under-graduate course
+    institution: Tsinghua University. Under-graduate. 1 term.
     date_start: 2015-01-01
     date_end: 2015-01-01
 work:
@@ -70,18 +70,14 @@ work:
     company_name: Alibaba-Zhejiang University Joint Institute of Frontier Technologies (AZFT)
     date_start: '2022-01-01'
     date_end: '2023-01-01'
-    summary: |2-
-        Cultivated 2 Ph.D. research interns.
-
-        Published 1 TIV, 1 ICRA, and 1 IROS papers.
+    summary: |-
+        Cultivated 2 Ph.D. and published 1 TIV, 1 ICRA, and 1 IROS.
   - position: LiDAR Point Cloud Feature Extraction and SLAM
     company_name: Alibaba Innovative Research (AIR)
     date_start: '2021-01-01'
     date_end: '2022-01-01'
-    summary: |2-
-        Cultivated 2 Ph.D. research interns.
-
-        Published 1 ECCV paper.
+    summary: |-
+        Cultivated 2 Ph.D. and published 1 ECCV.
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
