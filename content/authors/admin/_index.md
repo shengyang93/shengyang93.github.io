@@ -93,8 +93,8 @@ funding:
     date_start: 2021-01-01
     date_end: 2022-01-01
   - title: Stree-View Representation and Processing
-    institution: Alibaba Innovative Research (AIR)
-    role: Project Student Member
+    institution: Tsinghua University-Tencent Joint Laboratory
+    role: Student Member
     date_start: 2014-01-01
     date_end: 2016-01-01
 teachassist:
@@ -106,7 +106,7 @@ teachassist:
     institution: Tsinghua University. Under-graduate and Yao Class. 6 terms.
     date_start: 2016-09-01
     date_end: 2018-06-01
-  - course: C++ Programming
+  - course: C++ Programming Language
     institution: Tsinghua University. Under-graduate. 1 term.
     date_start: 2015-09-01
     date_end: 2016-01-01
