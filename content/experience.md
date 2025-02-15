@@ -31,6 +31,7 @@ sections:
         - Journal Reviewer: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.
         - Conference Reviewer: ICRA, IROS, CVPR, ICCV, IEEE VR, CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
         - Conference Program Committee: Computational Visual Media.
+      design: list
   - block: markdown
     content:
       title: 'Funding'
@@ -41,6 +42,7 @@ sections:
         - LiDAR Point Cloud Feature Extraction and SLAM. *Alibaba Innovative Research (AIR)*. 2021-2022. Leader.
           - Jointly cultivated 2 Ph.D. research interns.
           - 1 ECCV paper has been published.
+      design: compact
   - block: markdown
     content:
       title: 'Teaching Assistant'
@@ -49,6 +51,7 @@ sections:
         - **Fundamental of Computer Graphics**. Under-graduate course. Tsinghua University. 2016-2018. 3 semesters, 2 classes for each, including [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/).
           - National Excellent Courses.
         - **C++ Programming**. Under-graduate course. Tsinghua University. 2015. 1 semester.
+      design: citation
   # - block: resume-awards
   #   content:
   #     title: Teaching
