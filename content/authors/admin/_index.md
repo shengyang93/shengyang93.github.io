@@ -43,27 +43,27 @@ interests:
   - Productive Data Labeling
 
 work:
-  - position: Staff Research Scientist (Staff SDE)
+  - position: Staff Researcher, Team Manager
     company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
     date_start: 2024-04-01
     date_end: ''
     summary: |
       Responsible for mass-production and cost-down of map and data.
-  - position: Senior Research Scientist (Senior SDE)
+  - position: Senior Researcher, Tech Leader
     company_name: Autonomous Driving Lab, DAMO Academy & Cainiao Inc., Alibaba Group
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
       Serve as a Tech-Leader for SLAM & Reconstruction systems.
-  - position: Senior Algorithm Engineer (SDE II)
+  - position: Researcher II
     company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
     date_start: 2019-07-18
     date_end: 2020-07-31
-  - position: Algorithm Engineer (Intern)
+  - position: Research Intern
     company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
     date_start: 2018-04-01
     date_end: 2018-09-01
-  - position: Algorithm Engineer (Intern, Elite Camp)
+  - position: Research Intern (Elite Camp)
     company_name: High-Definition Map Dept., DiDi Technology
     date_start: 2017-04-01
     date_end: 2017-09-01
