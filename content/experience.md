@@ -24,15 +24,18 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: markdown
+  - block: experience
     content:
       title: 'Academic Services'
-      text: |-
-        - Journal Reviewer: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.
-        - Conference Reviewer: ICRA, IROS, CVPR, ICCV, IEEE VR, CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
-        - Conference Program Committee: Computational Visual Media.
+      date_format: 2006
+      items:
+        - title: Journal Reviewer
+          description: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.
+        - title: Conference Reviewer
+          description: ICRA, IROS, CVPR, ICCV, IEEE VR, CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
+        - title: Conference Program Committee
+          description: Computational Visual Media.
       design:
-        view: list
         columns: '1'
   - block: markdown
     content:
