@@ -51,11 +51,6 @@ sections:
           - 2021-2022. Project Leader.
           - Cultivated 2 Ph.D. research interns.
           - Published 1 ECCV paper.
-
-        # Test
-        ## TestTeset
-        ### TestTestTestTest
-        #### TestTestTestTestTest
       design:
         css_style: "font-size: 1rem"
   - block: markdown
