@@ -92,7 +92,7 @@ funding:
     role: Project Leader
     date_start: 2021-01-01
     date_end: 2022-01-01
-  - title: Stree-View Representation and Processing
+  - title: Street-View Representation and Processing
     institution: Tsinghua University-Tencent Joint Laboratory
     role: Student Member
     date_start: 2014-01-01
