@@ -26,7 +26,7 @@ sections:
   #     date_format: '2006'
   #     # Education or Experience section first?
   #     is_education_first: false
-- block: experience
+  - block: experience
     content:
       title: Experience
       date_format: Jan 2006
