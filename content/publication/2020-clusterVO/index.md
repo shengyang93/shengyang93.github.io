@@ -17,7 +17,7 @@ author_notes:
   - "Corresponding Author"
 
 date: '2020-06-13T00:00:00Z'
-doi: '10.1109/CVPR42600.2020.00224'
+# doi:  '10.1109/CVPR42600.2020.00224'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-06-13T00:00:00Z'

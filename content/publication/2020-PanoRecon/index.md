@@ -17,7 +17,7 @@ author_notes:
 - 
 - "Corresponding Author"
 date: "2020-07-01T00:00:00Z"
-doi: "10.1145/3389412"
+# doi:  "10.1145/3389412"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-01T00:00:00Z"

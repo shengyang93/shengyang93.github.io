@@ -19,7 +19,7 @@ author_notes:
   - 
 
 date: '2019-05-20T00:00:00Z'
-doi: '10.1109/ICRA.2019.8794299'
+# doi:  '10.1109/ICRA.2019.8794299'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-05-20T00:00:00Z'

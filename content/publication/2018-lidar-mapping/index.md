@@ -21,7 +21,7 @@ author_notes:
   - 
 
 date: '2018-10-01T00:00:00Z'
-doi: '10.1109/IROS.2018.8593754'
+# doi:  '10.1109/IROS.2018.8593754'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-10-01T00:00:00Z'

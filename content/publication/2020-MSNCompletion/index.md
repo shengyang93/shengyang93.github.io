@@ -19,7 +19,7 @@ author_notes:
   - 
 
 date: '2020-02-07T00:00:00Z'
-doi: '10.1609/aaai.v34i07.6827'
+# doi:  '10.1609/aaai.v34i07.6827'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-02-07T00:00:00Z'

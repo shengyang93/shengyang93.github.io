@@ -11,7 +11,7 @@ author_notes:
 - 
 - 
 date: "2017-03-15T00:00:00Z"
-doi: "10.1007/s41095-017-0078-4"
+# doi:  "10.1007/s41095-017-0078-4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-15T00:00:00Z"

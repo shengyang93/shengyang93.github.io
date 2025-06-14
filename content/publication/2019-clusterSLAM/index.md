@@ -19,7 +19,7 @@ author_notes:
   - "Corresponding Author"
 
 date: '2019-10-27T00:00:00Z'
-doi: '10.1109/ICCV.2019.00597'
+# doi:  '10.1109/ICCV.2019.00597'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-10-27T00:00:00Z'

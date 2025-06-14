@@ -15,7 +15,7 @@ author_notes:
 - 
 - 
 date: "2019-05-28T00:00:00Z"
-doi: "10.1109/TVCG.2019.2919619"
+# doi:  "10.1109/TVCG.2019.2919619"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-28T00:00:00Z"

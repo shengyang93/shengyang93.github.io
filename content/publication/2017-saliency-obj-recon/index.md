@@ -13,7 +13,7 @@ author_notes:
 - 
 - 
 date: "2017-10-13T00:00:00Z"
-doi: "10.1111/cgf.13282"
+# doi:  "10.1111/cgf.13282"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-10-13T00:00:00Z"
