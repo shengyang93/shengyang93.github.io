@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation-enhanced
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
