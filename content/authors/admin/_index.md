@@ -3,7 +3,7 @@
 title: 杨晟
 
 # Name pronunciation (optional)
-name_pronunciation: Yang Sheng
+# name_pronunciation: Yang Sheng
 
 # Full name (for SEO)
 first_name: Sheng
@@ -37,10 +37,9 @@ profiles:
     url: https://scholar.google.com/citations?user=G6IztksAAAAJ&hl=en
 
 interests:
-  - Autonomous Driving
-  - SLAM and Perception
-  - 3D Reconstruction and Vision
-  - Productive Data Labeling
+  - Autonomous Things
+  - Perception and SLAM
+  - World Model with 3DGS
 
 work:
   - position: Staff Researcher, Team Manager
