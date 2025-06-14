@@ -53,9 +53,9 @@ url_code: 'https://drive.google.com/file/d/1zQr11Ne_52HTXcIHRH5rsbfuhi4B8HJZ/vie
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://huangjh-pub.github.io/clustervo-slides.pdf'
+url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=p1aq0851-NU'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
