@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/cgf.13282
+url_pdf: 'https://onlinelibrary.wiley.com/doi/10.1111/cgf.13282'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''

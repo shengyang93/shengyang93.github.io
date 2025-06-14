@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s41095-017-0078-4
+url_pdf: 'https://link.springer.com/article/10.1007/s41095-017-0078-4'
 url_code: ''
 url_dataset: ''
 url_poster: ''
