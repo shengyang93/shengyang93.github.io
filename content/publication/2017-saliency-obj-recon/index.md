@@ -1,5 +1,5 @@
 ---
-title: "View Suggestion for Interactive Segmentation of Indoor Scenes"
+title: "Saliency-aware Real-time Volumetric Fusion for Object Reconstruction"
 authors:
 - admin
 - Kang Chen
