@@ -1,12 +1,12 @@
 ---
-title: 'ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings'
+title: 'ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body Clustering and Motion Estimation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jiahui Huang
-  - admin
+  - Sheng Yang
   - Tai-Jiang Mu
   - Shi-Min Hu
 # Author notes (optional)
@@ -17,7 +17,7 @@ author_notes:
   - "Corresponding Author"
 
 date: '2020-06-13T00:00:00Z'
-doi: '10.1109/CVPR42600.2020.00224'
+doi: '10.1109/ICCV.2019.00597'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-06-13T00:00:00Z'
@@ -49,11 +49,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_ClusterVO_Clustering_Moving_Instances_and_Estimating_Visual_Odometry_for_Self_CVPR_2020_paper.pdf'
-url_code: 'https://drive.google.com/file/d/1zQr11Ne_52HTXcIHRH5rsbfuhi4B8HJZ/view?usp=sharing'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://huangjh-pub.github.io/clustervo-slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=p1aq0851-NU'
 
