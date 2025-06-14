@@ -6,7 +6,7 @@ title: 'ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body Clustering and M
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jiahui Huang
-  - Sheng Yang
+  - admin
   - Zishuo Zhao
   - Yu-Kun Lai
   - Shi-Min Hu
