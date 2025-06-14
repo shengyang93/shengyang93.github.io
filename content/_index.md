@@ -59,7 +59,6 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
         exclude_featured: false
     design:
       view: citation
