@@ -1,5 +1,5 @@
 ---
-title: "HeteroFusion: Dense Scene Reconstruction Integrating Multi-Sensors"
+title: "Noise-Resilient Reconstruction of Panoramas and 3D Scenes Using Robot-Mounted Unsynchronized Commodity RGB-D Cameras"
 authors:
 - admin
 - Beichen Li
