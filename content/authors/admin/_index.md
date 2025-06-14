@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨晟
+title: Sheng Yang
 
 # Name pronunciation (optional)
 # name_pronunciation: Yang Sheng
@@ -32,9 +32,10 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:shengyang93fs@gmail.com'
-    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=G6IztksAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/shengyang93/
 
 interests:
   - Autonomous Things
