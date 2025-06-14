@@ -56,12 +56,14 @@ sections:
     content:
       title: Publications
       text: ""
+      count: 100
       filters:
         folders:
           - publication
-        exclude_featured: false
+        publication_type: 'article'
     design:
       view: citation
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:
