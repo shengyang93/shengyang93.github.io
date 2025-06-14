@@ -6,4 +6,7 @@
 #   _build:
 #     render: never
 #     list: always
+
+view: citation
+
 ---
