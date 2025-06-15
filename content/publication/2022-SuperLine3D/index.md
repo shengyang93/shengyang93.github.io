@@ -1,48 +1,50 @@
 ---
-title: 'Probabilistic Projective Association and Semantic Guided Relocalization for Dense Reconstruction'
+title: 'SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wentao Cheng
-  - admin
-  - Maomin Zhou
-  - Ziyuan Liu
-  - Yiming Chen
+  - Xiangrui Zhao
+  - Sheng Yang
+  - Tianxin Huang
+  - Jun Chen
+  - Teng Ma
   - Mingyang Li
+  - Yong Liu
 # Author notes (optional)
 author_notes:
-  - "Equal Contribution"
-  - "Equal Contribution"
   - 
   - 
   - 
   - 
+  - 
+  - 
+  - "Corresponding Author"
 
-date: '2021-03-25T00:00:00Z'
+date: '2022-11-06T00:00:00Z'
 # doi:  '10.1109/ICRA.2019.8794299'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-03-25T00:00:00Z'
+publishDate: '2022-11-06T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Robotics and Automation Letters
-publication_short: "**ICRA (with RAL)**"
+publication: European Conference on Computer Vision
+publication_short: "**ECCV**"
 
-abstract: We present a novel method for visual mapping and localization for autonomous vehicles, by extracting, modeling, and optimizing semantic road elements. Specifically, our method integrates cascaded deep models to detect standardized road elements instead of traditional point features, to seek for improved pose accuracy and map representation compactness. To utilize the structural features, we model road lights and signs by their representative deep keypoints for skeleton and boundary, and parameterize lanes via piecewise cubic splines. Based on the road semantic features, we build a complete pipeline for mapping and localization, which includes a) image processing front-end, b) sensor fusion strategies, and c) optimization back-end. Experiments on public datasets and our testing platform have demonstrated the effectiveness and advantages of our method by outperforming traditional approaches.
+abstract: Poles and building edges are frequently observable objects on urban roads, conveying reliable hints for various computer vision tasks. To repetitively extract them as features and perform association between discrete LiDAR frames for registration, we propose the first learning-based feature segmentation and description model for 3D lines in LiDAR point cloud. To train our model without the time consuming and tedious data labeling process, we first generate synthetic primitives for the basic appearance of target lines, and build an iterative line auto-labeling process to gradually refine line labels on real LiDAR scans. Our segmentation model can extract lines under arbitrary scale perturbations, and we use shared EdgeConv encoder layers to train the two segmentation and descriptor heads jointly. Base on the model, we can build a highly-available global registration module for point cloud registration, in conditions without initial transformation hints. Experiments have demonstrated that our line-based registration method is highly competitive to state-of-the-art point-based approaches. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - SLAM
-  - ICRA
+  - ECCV
 
 # Display this page in the Featured widget?
 featured: false
@@ -52,8 +54,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2108.05047'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2208.01925'
+url_code: 'https://github.com/zxrzju/SuperLine3D'
 url_dataset: ''
 url_poster: ''
 url_project: ''
