@@ -6,7 +6,7 @@ title: 'SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xiangrui Zhao
-  - Sheng Yang
+  - admin
   - Tianxin Huang
   - Jun Chen
   - Teng Ma
