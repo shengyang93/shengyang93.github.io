@@ -40,11 +40,11 @@ author_notes:
   - "Corresponding Author"
   -
 
-date: '2025-10-19T00:00:00Z'
+date: '2025-06-15T00:00:00Z'
 # doi:  '10.1109/ICRA.2019.8794299'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-06-16T00:00:00Z'
+publishDate: '2025-06-15T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
