@@ -19,7 +19,7 @@ authors:
   - Peng Chen
   - Yapeng Xue
   - Chunming Zhao
-  - Sheng Yang
+  - admin
   - Qiang Li
 # Author notes (optional)
 author_notes:
