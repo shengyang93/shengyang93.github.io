@@ -33,7 +33,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Intelligent Vehicles
-publication_short: "**TIV**"
+publication_short: "TIV"
 
 abstract: In this paper, we propose an interoceptive-only odometry system for ground robots with neural network processing and soft constraints based on the assumption of a globally continuous ground manifold. Exteroceptive sensors such as cameras, GPS and LiDAR may encounter difficulties in scenarios with poor illumination, indoor environments, dusty areas and straight tunnels. Therefore, improving the pose estimation accuracy only using interoceptive sensors is important to enhance the reliability of navigation system even in degrading scenarios mentioned above. However, interoceptive sensors like IMU and wheel encoders suffer from large drift due to noisy measurements. To overcome these challenges, the proposed system trains deep neural networks to correct the measurements from IMU and wheel encoders, while considering their uncertainty. Moreover, because ground robots can only travel on the ground, we model the ground surface as a globally continuous manifold using a dual cubic B-spline manifold to further improve the estimation accuracy by this soft constraint. A novel space-based sliding-window filtering framework is proposed to fully exploit the C2 continuity of ground manifold soft constraints and fuse all the information from raw measurements and neural networks in a yaw-independent attitude convention. Extensive experiments demonstrate that our proposed approach can outperform state-of-the-art learning-based interoceptive-only odometry methods.
 

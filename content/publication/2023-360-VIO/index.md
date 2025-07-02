@@ -41,7 +41,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Industrial Electronics
-publication_short: "**TIE**"
+publication_short: "TIE"
 
 abstract: Visual–inertial odometry (VIO) is an important component for robots working in industrial environments to obtain accurate and robust pose estimation. In this article, we introduce a novel VIO algorithm designed specifically for 360° cameras, exploiting their wide field of view. We build our algorithm based on an EKF-based filtering framework and propose a novel measurement model for 360° camera leveraging the reprojection error on the tangent plane of the spherical surface. By this, our 360-VIO effectively mitigates errors caused by the image distortion and fully exploit the omnidirectional observation, resulting in superior accuracy and robustness toward illumination changes and fast camera movements. To the best of our knowledge, no public 360-based visual–inertial dataset is currently available. To address this gap, we have constructed a novel 360° camera dataset under different challenging environments to evaluate the performance of our proposed algorithm. The results of our experiments demonstrate the impressive robustness and accuracy of our method compared with other state-of-the-art VIO methods across diverse and challenging environments.
 

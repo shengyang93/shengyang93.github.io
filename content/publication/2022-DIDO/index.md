@@ -35,7 +35,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Robotics and Automation Letters
-publication_short: "**IROS (with RAL)**"
+publication_short: "IROS (with RAL)"
 
 abstract: In this work, we propose an interoceptive-only state estimation system for a quadrotor with deep neural network processing, where the quadrotor dynamics is considered as a perceptive supplement of the inertial kinematics. To improve the precision of multi-sensor fusion, we train cascaded networks on real-world quadrotor flight data to learn IMU kinematic properties, quadrotor dynamic characteristics, and motion states of the quadrotor along with their uncertainty information, respectively. This encoded information empowers us to address the issues of IMU bias stability, quadrotor dynamics, and multi-sensor calibration during sensor fusion. The above multi-source information is fused into a two-stage Extended Kalman Filter (EKF) framework for better estimation. Experiments have demonstrated the advantages of our proposed work over several conventional and learning-based methods.
 
