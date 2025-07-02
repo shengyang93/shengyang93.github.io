@@ -27,18 +27,19 @@
   {{/* MLA Style */}}
   {{ else }}
 
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  <a href="{{ $item.RelPermalink }}" class="font-semibold">{{ $item.Title }}</a>
   <br>
-  <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}.
-  </span>
-  <br>
-  {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}},
-  {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}},
-  {{ end }}
   {{- $item.Date.Format "2006" -}}.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+  {{ end }}
+  <br>
+  <span class="article-metadata li-cite-author prose text-gray-500 text-sm">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+
 
   {{ if $has_attachments }}
   <div class="flex flex-wrap space-x-3">
