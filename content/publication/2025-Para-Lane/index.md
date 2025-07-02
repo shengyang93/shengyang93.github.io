@@ -31,7 +31,6 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on 3D Vision
-publication_short: "3DV"
 
 abstract: To evaluate end-to-end autonomous driving systems, a simulation environment based on Novel View Synthesis (NVS) techniques is essential, which synthesizes photo-realistic images and point clouds from previously recorded sequences under new vehicle poses, particularly in cross-lane scenarios. Therefore, the development of a multi-lane dataset and benchmark is necessary. While recent synthetic scene-based NVS datasets have been prepared for cross-lane benchmarking, they still lack the realism of captured images and point clouds. To further assess the performance of existing methods based on NeRF and 3DGS, we present the first multi-lane dataset registering parallel scans specifically for novel driving view synthesis dataset derived from real-world scans, comprising 25 groups of associated sequences, including 16,000 front-view images, 64,000 surround-view images, and 16,000 LiDAR frames. All frames are labeled to differentiate moving objects from static elements. Using this dataset, we evaluate the performance of existing approaches in various testing scenarios at different lanes and distances. Additionally, our method provides the solution for solving and assessing the quality of multi-sensor poses for multi-modal data alignment for curating such a dataset in real-world. We plan to continually add new sequences to test the generalization of existing methods across different scenarios.
 
@@ -41,7 +40,7 @@ abstract: To evaluate end-to-end autonomous driving systems, a simulation enviro
 tags:
   - SLAM
   - 3D Reconstruction
-  - TIV
+  - 3DV
   - Dataset
 
 # Display this page in the Featured widget?
