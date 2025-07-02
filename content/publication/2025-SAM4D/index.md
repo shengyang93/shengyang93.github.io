@@ -54,7 +54,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSLAM_A_SLAM_Backend_for_Simultaneous_Rigid_Body_Clustering_and_ICCV_2019_paper.pdf'
+url_pdf: 'https://arxiv.org/pdf/2506.21547'
 url_code: 'https://github.com/CN-ADLab/SAM4D'
 url_dataset: ''
 url_poster: ''
