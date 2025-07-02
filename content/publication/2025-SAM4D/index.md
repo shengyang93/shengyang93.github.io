@@ -58,7 +58,7 @@ url_pdf: 'https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSL
 url_code: 'https://github.com/CN-ADLab/SAM4D'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://sam4d-project.github.io/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
