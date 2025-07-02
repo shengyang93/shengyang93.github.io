@@ -1,5 +1,5 @@
 ---
-title: "LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting"
+title: "LiDAR-GS: Real-time LiDAR Re-Simulation using Gaussian Splatting"
 authors:
 - Qifeng Chen
 - admin
