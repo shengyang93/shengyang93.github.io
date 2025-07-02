@@ -13,12 +13,12 @@ authors:
   - Fei Gao
 # Author notes (optional)
 author_notes:
-  - "Corresponding Author"
+  -
   - 
   - 
   - 
   - 
-  - "Corresponding Author"
+  -
 
 date: '2024-07-16T00:00:00Z'
 # doi:  '10.1109/ICRA.2019.8794299'

@@ -16,8 +16,8 @@ authors:
 - Qiang Li
 # Author notes (optional)
 author_notes:
-  - "Equal Contribution"
-  - "Equal Contribution, Corresponding Author"
+  - "*"
+  - "*†"
   - 
   - 
   - 

@@ -16,7 +16,7 @@ author_notes:
   - 
   - 
   - 
-  - "Corresponding Author"
+  - "†"
 
 date: '2025-03-25T00:00:00Z'
 # doi:  '10.1109/ICRA.2019.8794299'

@@ -9,7 +9,7 @@ authors:
 - Yuchi Huo
 author_notes:
 -
-- "Corresponding Author"
+- "†"
 -
 -
 -

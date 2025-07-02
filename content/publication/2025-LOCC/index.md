@@ -17,9 +17,9 @@ authors:
 - Hui-Liang Shen
 # Author notes (optional)
 author_notes:
-  - "Equal Contribution"
-  - "Equal Contribution"
-  - "Corresponding Author"
+  - "*"
+  - "*"
+  - 
   - 
   - 
   - 

@@ -15,8 +15,8 @@ authors:
   - Fei Gao
 # Author notes (optional)
 author_notes:
-  - "Equal Contribution"
-  - "Equal Contribution"
+  - "*"
+  - "*"
   - 
   - 
   - 

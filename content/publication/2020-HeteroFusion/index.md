@@ -8,7 +8,7 @@ authors:
 - Leif Kobbelt
 - Shi-Min Hu
 author_notes:
-- "Corresponding Author"
+-
 - 
 - 
 - 

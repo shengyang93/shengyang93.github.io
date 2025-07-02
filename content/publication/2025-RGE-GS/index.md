@@ -13,12 +13,12 @@ authors:
 - admin
 # Author notes (optional)
 author_notes:
-  - "Equal Contribution"
-  - "Equal Contribution"
+  - "*"
+  - "*"
   - 
   - 
   - 
-  - "Corresponding Author"
+  - "†"
 
 date: '2025-07-01T00:00:02Z'
 # doi:  '10.1109/ICCV.2019.00597'

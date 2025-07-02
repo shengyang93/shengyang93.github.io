@@ -12,7 +12,7 @@ authors:
   - Teng Ma
 # Author notes (optional)
 author_notes:
-  - "Corresponding Author"
+  -
   - 
   - 
   - 

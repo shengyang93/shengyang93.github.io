@@ -6,7 +6,7 @@ authors:
 - Kang Chen
 - Hongbo Fu
 author_notes:
-- "Corresponding Author"
+-
 - 
 - 
 - 

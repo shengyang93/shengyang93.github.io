@@ -12,7 +12,7 @@ authors:
   - Shi-Min Hu
 # Author notes (optional)
 author_notes:
-  - "Corresponding Author"
+  -
   - 
   - 
   - 

@@ -23,6 +23,9 @@ authors:
   - Qiang Li
 # Author notes (optional)
 author_notes:
+  - "*"
+  - "*"
+  - "*"
   -
   -
   -
@@ -34,10 +37,7 @@ author_notes:
   -
   -
   -
-  -
-  -
-  -
-  - "Corresponding Author"
+  - "†"
   -
 
 date: '2025-06-15T00:00:00Z'

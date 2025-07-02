@@ -16,7 +16,7 @@ author_notes:
   - 
   - 
   - 
-  - "Corresponding Author"
+  -
 
 date: '2019-10-27T00:00:00Z'
 # doi:  '10.1109/ICCV.2019.00597'

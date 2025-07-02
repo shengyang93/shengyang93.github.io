@@ -15,7 +15,7 @@ author_notes:
 - 
 - 
 - 
-- "Corresponding Author"
+-
 date: "2020-07-01T00:00:00Z"
 # doi:  "10.1145/3389412"
 
