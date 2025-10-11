@@ -12,7 +12,7 @@ authors:
 - Deqi Li
 - Shi-Sheng Huang
 - Guofeng Zhang
-- Sheng Yang
+- admin
 # Author notes (optional)
 author_notes:
   - "*"
