@@ -76,8 +76,6 @@ education:
   - area: PhD in Computer Science
     institution: Tsinghua University
     year: 2019
-    short: |
-      [Prof. Shi-Min Hu]((https://cg.cs.tsinghua.edu.cn/))
     date_start: 2014-09-01
     date_end: 2019-07-01
     summary: |
