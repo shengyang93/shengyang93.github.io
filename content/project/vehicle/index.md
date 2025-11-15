@@ -1,5 +1,5 @@
 ---
-title: CaiNiao GT Unmanned Vehicle
+title: GT Unmanned Vehicle
 date: 2024-07-01
 tags:
   - Alibaba

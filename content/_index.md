@@ -51,7 +51,7 @@ sections:
     design:
       date_format: '2006'
       view: article-grid
-      columns: 3
+      columns: 4
 
   - block: collection
     id: papers

@@ -1,6 +1,6 @@
 ---
-title: Data Annotation Tool
-date: 2023-10-01
+title: Diffused Reconstruction
+date: 2025-03-01
 tags:
   - Alibaba
 ---
