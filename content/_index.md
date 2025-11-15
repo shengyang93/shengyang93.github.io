@@ -56,7 +56,7 @@ sections:
     content:
       title: Publications
       text: ""
-      count: 25
+      count: 50
       filters:
         folders:
           - publication
