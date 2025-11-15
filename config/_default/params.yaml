@@ -29,7 +29,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: "navbar"
     fixed_to_top: true
     show_search: false
@@ -50,6 +50,7 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
+  date_format_for_projects: 'Jan, 2006'
   time_format: '3:04 PM'
 
 # Site features

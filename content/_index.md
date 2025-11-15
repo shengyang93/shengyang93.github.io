@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -41,18 +41,20 @@ sections:
   #       | Coming Soon | Coming Soon | Coming Soon |
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
   - block: collection
+    id: projects
+    content:
+      title: Released Projects
+      filters:
+        folders:
+          - project
+    design:
+      date_format: '2006'
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    id: papers
     content:
       title: Publications
       text: ""

@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Director
+role: Principal Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Alibaba
-    url: https://www.alibaba.com/
+  - name: NIO
+    url: https://www.nio.com/nad
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,50 +38,65 @@ profiles:
     url: https://www.linkedin.com/in/shengyang93/
 
 interests:
-  - Autonomous Things
-  - Perception and SLAM
-  - World Model with 3DGS
+  - Visual-Language-Action Models
+  - Reinforcement with World Models
+  - Spatial / Physical Representations
 
 work:
-  - position: Staff Researcher, Team Manager
-    company_name: Unmanned Vehicle Dept., Cainiao Inc., Alibaba Group
-    date_start: 2024-04-01
+  - position: Senior Expert & Director
+    company_name: NIO Assisted and Intelligent Driving.
+    date_start: 2025-12-16
     date_end: ''
     summary: |
-      Responsible for mass-production and cost-down of map and data.
-  - position: Senior Researcher, Tech Leader
-    company_name: Autonomous Driving Lab, DAMO Academy & Cainiao Inc., Alibaba Group
+      - Founding the NIO AI Research Department for the cutting-edge research.
+  - position: Principal Researcher & Director
+    company_name: Alibaba Autonomous Driving Lab. CaiNiao.
+    date_start: 2024-04-01
+    date_end: 2025-12-15
+    summary: |
+      - Fully launched L4 lightweight map architecture on unmanned vehicles.
+      - Brought up generative reconstruction for curation and closed-loop validation.
+      - Unified multi-task perception backbones for cost-down sensor and chip BOM.
+      - Lead full-time employees and research interns for frontier algorithms.
+  - position: Staff Researcher & Tech Leader
+    company_name: Alibaba Autonomous Driving Lab. DAMO Academy & CaiNiao.
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
-      Improving SLAM & Reconstruction systems.
-  - position: Researcher II
-    company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
+      - Mass-producing maps and curated driving clips with cost management.
+      - Improving SLAM, Reconstruction, and Auto-Labeling algorithms and systems.
+  - position: Senior Researcher
+    company_name: Alibaba Autonomous Driving Lab. DAMO Academy.
     date_start: 2019-07-18
     date_end: 2020-07-31
-  - position: Research Intern
-    company_name: Artificial Intelligence Lab, DAMO Academy, Alibaba Group
-    date_start: 2018-04-01
-    date_end: 2018-09-01
-  - position: Research Intern (Elite Camp)
-    company_name: High-Definition Map Dept., DiDi Technology
-    date_start: 2017-04-01
-    date_end: 2017-09-01
+    summary: |
+      - Brought up Semantic SLAM architecture for onboard localization.
+
 education:
   - area: PhD in Computer Science
     institution: Tsinghua University
+    year: 2019
+    short: |
+      [Prof. Shi-Min Hu]((https://cg.cs.tsinghua.edu.cn/))
     date_start: 2014-09-01
     date_end: 2019-07-01
     summary: |
-      [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
+      - [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
       advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
   - area: BEng in Computer Science
     institution: Wuhan University
+    year: 2014
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
-      Ranked 1/195 for recommending graduate study. National Scholarship.
+      - Ranked 1/195 for recommending graduate study. National Scholarship.
+      
 funding:
+  - title: End-to-End Driving through BEV Perception.
+    institution: Zhejiang Provincial Natural Science Foundation of China (LD24F030001)
+    role: Core Contributor
+    date_start: 2023-01-01
+    date_end: 2026-01-01
   - title: Learning-based Low-cost Multi-sensor Localization
     institution: Alibaba-Zhejiang University Joint Institute of Frontier Technologies (AZFT)
     role: Project Leader
@@ -97,6 +112,7 @@ funding:
     role: Student Member
     date_start: 2014-01-01
     date_end: 2016-01-01
+
 teachassist:
   - course: Advanced Computer Graphics
     institution: Tsinghua University. Post-graduate. 2 terms.
@@ -110,17 +126,27 @@ teachassist:
     institution: Tsinghua University. Under-graduate. 1 term.
     date_start: 2015-09-01
     date_end: 2016-01-01
+    
 acaserv:
   - type: Journal Reviewer
-    summary: ACM TOG, IEEE TVCG, IEEE RA-L, CGF, RAS.
+    summary: |
+      - **Graphics:** ACM Transactions on Graphics (TOG), IEEE Transactions on Visualization and Computer Graphics (TVCG), Computer Graphics Forum (CGF).
+      - **Robotics:** IEEE Robotics and Automation Letters (RA-L), Robotics and Automation Systems (RAS).
   - type: Conference Reviewer
-    summary: ICRA, IROS, CVPR, ICCV, IEEE VR, CVM, GMOD, PG, TVC, VRST, IJPRAI, 3DV, etc.
+    summary: |
+      - **Graphics:** IEEE VR, CVM, GMOD, PG, TVC, etc.
+      - **Vision and Learning:** CVPR, ICCV, ECCV, ICLR, NIPS, AAAI, WACV, 3DV, etc.
+      - **Robotics:** ICRA, IROS.
   - type: Conference Program Committee
     summary: Computational Visual Media.
 ---
 
 ## About Me
 
-I serve as a Director of the Perception Department at [Cainiao Unmanned Vehicle](https://www.cainiao.com/technology-unmanned-vehicles.html), where I led an effort on autonomous driving architecture, data efficiency techniques, and frontier algorithms. I received my Ph.D. from Tsinghua University in 2019, supervised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
+I am currently the Founder and Head of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on the cutting-edge autonomous driving architectures and algorithms.
 
-> 🍀 We are continually seeking experienced colleagues and passionate research interns to collaborate with. Feel free to contact me.
+Before joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I was responsible for the overall algorithmic architecture, perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, with all L4 unmanned vehicles equipped with our RTMap solution, resulting in millions of successful deliveries for customers.
+
+I completed my Ph.D. at the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). Earlier, I obtained my bachelor’s degree in Computer Science from Wuhan University, ranking first in our grade.
+
+> 🍀 We are hiring talented young eager eyes and passionate research interns to collaborate with. [[Campus Link]](https://nio.jobs.feishu.cn/referral/campus/position/detail/?token=MjsxNzYzMTIyMzY5NTkzOzczOTk0MzEyOTU1ODEwNDQ3Mzk7NzU3MjUzNzQxMzI1Nzk1NTYyNTsxLzE)
