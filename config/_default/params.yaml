@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Sheng Yang. All Rights Reserved. Last updated in Jun 2025.'
+    notice: '© {year} Sheng Yang. All Rights Reserved. Last updated in Nov 2025.'
     license:
       enable: true
       allow_derivatives: false
