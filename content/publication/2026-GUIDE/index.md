@@ -52,7 +52,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2511.12941'
 url_code: 'https://github.com/CN-ADLab/GUIDE'
 
 # Featured image
