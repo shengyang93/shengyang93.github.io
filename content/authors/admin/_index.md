@@ -48,29 +48,29 @@ work:
     date_start: 2025-12-16
     date_end: ''
     summary: |
-      - Founding the NIO AI Research Department for the cutting-edge research.
+      - Founding and Leading the NIO AI Research team for the cutting-edge.
   - position: Principal Researcher & Director
     company_name: Alibaba Autonomous Driving Lab. CaiNiao.
     date_start: 2024-04-01
     date_end: 2025-12-15
     summary: |
-      - Fully launched L4 lightweight map architecture on unmanned vehicles.
-      - Brought up generative reconstruction for curation and closed-loop validation.
-      - Unified multi-task perception backbones for cost-down sensor and chip BOM.
+      - Fully launch L4 lightweight map architecture on unmanned vehicles.
+      - Bring up generative reconstruction for curation and closed-loop validation.
+      - Unify multi-task perception backbones for cost-down sensor and chip BOM.
       - Lead full-time employees and research interns for frontier algorithms.
   - position: Staff Researcher & Tech Leader
     company_name: Alibaba Autonomous Driving Lab. DAMO Academy & CaiNiao.
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
-      - Mass-producing maps and curated driving clips with cost management.
-      - Improving SLAM, Reconstruction, and Auto-Labeling algorithms and systems.
+      - Mass-produce maps and curated driving clips with cost management.
+      - Improve SLAM, Reconstruction, and Auto-Labeling algorithms and systems.
   - position: Senior Researcher
     company_name: Alibaba Autonomous Driving Lab. DAMO Academy.
     date_start: 2019-07-18
     date_end: 2020-07-31
     summary: |
-      - Brought up Semantic SLAM architecture for onboard localization.
+      - Bring up Semantic SLAM architecture for onboard localization.
 
 education:
   - area: PhD in Computer Science
@@ -79,7 +79,7 @@ education:
     date_start: 2014-09-01
     date_end: 2019-07-01
     summary: |
-      - [Graphics & Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
+      - [Graphics and Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
       advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
   - area: BEng in Computer Science
     institution: Wuhan University
