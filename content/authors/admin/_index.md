@@ -38,21 +38,21 @@ profiles:
     url: https://www.linkedin.com/in/shengyang93/
 
 interests:
-  - Visual-Language-Action Models
+  - Spatial Representation Learning
   - Reinforcement with World Models
-  - Spatial / Physical Representations
+  - Visual-Language-Action Models
 
 work:
-  - position: Senior Expert & Director
+  - position: Senior Expert & Founding Director
     company_name: NIO Assisted and Intelligent Driving.
-    date_start: 2025-12-16
+    date_start: 2025-12-15
     date_end: ''
     summary: |
       - Founding and Leading the NIO AI Research team for the cutting-edge.
   - position: Principal Researcher & Director
     company_name: Alibaba Autonomous Driving Lab. CaiNiao.
     date_start: 2024-04-01
-    date_end: 2025-12-15
+    date_end: 2025-12-12
     summary: |
       - Fully launch L4 lightweight map architecture on unmanned vehicles.
       - Bring up generative reconstruction for curation and closed-loop validation.
@@ -90,7 +90,7 @@ education:
       - Ranked 1/195 for recommending graduate study. National Scholarship.
       
 funding:
-  - title: End-to-End Driving through BEV Perception.
+  - title: End-to-End Driving through BEV Perception
     institution: Zhejiang Provincial Natural Science Foundation of China (LD24F030001)
     role: Core Contributor
     date_start: 2023-01-01
@@ -141,10 +141,10 @@ acaserv:
 
 ## About Me
 
-I am currently the Founder and Head of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on the cutting-edge autonomous driving architectures and algorithms.
+I am currently the Founding Director and Principal Researcher of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on the cutting-edge autonomous driving architectures and algorithms.
 
 Before joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I was responsible for the overall algorithmic architecture, perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, with all L4 unmanned vehicles equipped with our RTMap solution, resulting in millions of successful deliveries for customers.
 
 I completed my Ph.D. at the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). Earlier, I obtained my bachelor’s degree in Computer Science from Wuhan University, ranking first in our grade.
 
-> 🍀 We are hiring talented young eager eyes and passionate research interns to collaborate with. [[Campus Link]](https://nio.jobs.feishu.cn/referral/campus/position/detail/?token=MjsxNzYzMTIyMzY5NTkzOzczOTk0MzEyOTU1ODEwNDQ3Mzk7NzU3MjUzNzQxMzI1Nzk1NTYyNTsxLzE)
+> 🍀 I am pleased to serve and cooperate with full-time researchers and passionate research interns. Feel free to contact us: [[Campus Link]](https://nio.jobs.feishu.cn/referral/campus/position/detail/?token=MjsxNzYzMTIyMzY5NTkzOzczOTk0MzEyOTU1ODEwNDQ3Mzk7NzU3MjUzNzQxMzI1Nzk1NTYyNTsxLzE)
