@@ -151,7 +151,7 @@ acaserv:
 
 I am currently the Founding Director and Principal Researcher of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on cutting-edge architectures and algorithms for autonomous driving.
 
-Prior to joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I led the overall algorithmic architecture across perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, deploying our RTMap solution across all L4 unmanned vehicles and enabling millions of successful customer deliveries.
+Prior to joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I led the overall algorithmic architecture across perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, deploying our architectural solution across all L4 unmanned vehicles and enabling millions of successful customer deliveries.
 
 I received my Ph.D. in Computer Science from the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). I earned my B.Eng. in Computer Science from Wuhan University, ranking first in our grade.
 

@@ -27,7 +27,7 @@ Building on the successful mass production of GX, our team independently designe
 
 ![Alt text](image-2.png)
 
-### Low-Cost Sensor–Computing Suite with a Unified Model
+### Low-Cost Sensor-Computing Suite with a Unified Model
 
 ![Alt text](image-6.png)
 
