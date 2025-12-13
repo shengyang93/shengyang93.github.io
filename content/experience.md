@@ -12,7 +12,7 @@ sections:
     content:
       username: admin
     design:
-      date_format: '2006'
+      date_format: '2006.01'
       date_format_year_only: '2006'
       pad: '5rem'
   # - block: resume-awards

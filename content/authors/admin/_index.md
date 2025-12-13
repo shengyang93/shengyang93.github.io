@@ -43,51 +43,59 @@ interests:
   - Visual-Language-Action Models
 
 work:
-  - position: Senior Expert & Founding Director
-    company_name: NIO Assisted and Intelligent Driving.
+  - position: Principal Algorithm Expert & Founding Director
+    company_name: |
+      **NIO**. Assisted and Intelligent Driving.
     date_start: 2025-12-15
     date_end: ''
     summary: |
-      - Founding and Leading the NIO AI Research team for the cutting-edge.
-  - position: Principal Researcher & Director
-    company_name: Alibaba Autonomous Driving Lab. CaiNiao.
+      - Launching cutting-edge research in Advanced AI and Intelligent Driving Systems.
+      - Founding and Leading the NIO AI Research team.
+  - position: Senior Algorithm Expert & Director
+    company_name: |
+      **Alibaba**. Autonomous Driving Lab (CaiNiao).
     date_start: 2024-04-01
     date_end: 2025-12-12
     summary: |
-      - Fully launch L4 lightweight map architecture on unmanned vehicles.
-      - Bring up generative reconstruction for curation and closed-loop validation.
-      - Unify multi-task perception backbones for cost-down sensor and chip BOM.
-      - Lead full-time employees and research interns for frontier algorithms.
-  - position: Staff Researcher & Tech Leader
-    company_name: Alibaba Autonomous Driving Lab. DAMO Academy & CaiNiao.
+      - Fully launched an L4 lightweight HD-map architecture for unmanned vehicles.
+      - Established generative 3D reconstruction pipelines for data curation and closed-loop validation.
+      - Unified multi-task perception models across both backbone and data to reduce sensor and chip BOM costs.
+      - Led full-time employees and research interns for frontier algorithms.
+      - Served as the **Legal Representative** and **Party Branch Secretary** of the lab.
+  - position: Algorithm Expert & Tech Leader
+    company_name: |
+      **Alibaba**. Autonomous Driving Lab (DAMO Academy & CaiNiao).
     date_start: 2020-08-01
     date_end: 2024-03-31
     summary: |
-      - Mass-produce maps and curated driving clips with cost management.
-      - Improve SLAM, Reconstruction, and Auto-Labeling algorithms and systems.
-  - position: Senior Researcher
-    company_name: Alibaba Autonomous Driving Lab. DAMO Academy.
+      - Scaled production of HD maps and curated driving clips with auto-labeling.
+      - Advanced SLAM, 3D reconstruction, and auto-labeling algorithms and systems.
+      - Took on formal people-management responsibilities as a **Line Manager** (since Jan 2022).
+  - position: Senior Algorithm Engineer
+    company_name: |
+      **Alibaba**. A.I. Robotics Lab (DAMO Academy).
     date_start: 2019-07-18
     date_end: 2020-07-31
     summary: |
-      - Bring up Semantic SLAM architecture for onboard localization.
+      - Designed and implemented a semantic-SLAM architecture for onboard localization in robotic systems.
 
 education:
-  - area: PhD in Computer Science
+  - area: Ph.D. in Computer Science
     institution: Tsinghua University
     year: 2019
     date_start: 2014-09-01
     date_end: 2019-07-01
     summary: |
-      - [Graphics and Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
+      - Ph.D. Candidate of the [Graphics and Geometry Computing Group](https://cg.cs.tsinghua.edu.cn/),
       advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm).
-  - area: BEng in Computer Science
+  - area: B.Eng. in Computer Science
     institution: Wuhan University
     year: 2014
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
-      - Ranked 1/195 for recommending graduate study. National Scholarship.
+      - Ranked 1/195 and recommended for graduate study.
+      - Recipient of the **China National Scholarship**.
       
 funding:
   - title: End-to-End Driving through BEV Perception
@@ -139,12 +147,12 @@ acaserv:
     summary: Computational Visual Media.
 ---
 
-## About Me
+## Nice to Meet You !~
 
-I am currently the Founding Director and Principal Researcher of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on the cutting-edge autonomous driving architectures and algorithms.
+I am currently the Founding Director and Principal Researcher of NIO AI Research, working closely with [Prof. Shaoqing Ren](https://shaoqingren.com/) on cutting-edge architectures and algorithms for autonomous driving.
 
-Before joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I was responsible for the overall algorithmic architecture, perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, with all L4 unmanned vehicles equipped with our RTMap solution, resulting in millions of successful deliveries for customers.
+Prior to joining NIO, I served as a Director of the Alibaba Autonomous Driving Lab, where I led the overall algorithmic architecture across perception, generative reconstruction, and SLAM. Sponsored by [CaiNiao CTO Qiang Li](https://www.linkedin.com/in/qiang-li-37196013), I successfully launched the Robovan project, deploying our RTMap solution across all L4 unmanned vehicles and enabling millions of successful customer deliveries.
 
-I completed my Ph.D. at the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). Earlier, I obtained my bachelor’s degree in Computer Science from Wuhan University, ranking first in our grade.
+I received my Ph.D. in Computer Science from the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). I earned my B.Eng. in Computer Science from Wuhan University, ranking first in our grade.
 
-> 🍀 I am pleased to serve and cooperate with full-time researchers and passionate research interns. Feel free to contact us: [[Campus Link]](https://nio.jobs.feishu.cn/referral/campus/position/detail/?token=MjsxNzYzMTIyMzY5NTkzOzczOTk0MzEyOTU1ODEwNDQ3Mzk7NzU3MjUzNzQxMzI1Nzk1NTYyNTsxLzE)
+> 🍀 I enjoy working with full-time researchers and highly motivated research interns. We are actively recruiting —— feel free to reach out via [[Campus Link]](https://nio.jobs.feishu.cn/referral/campus/position/detail/?token=MjsxNzYzMTIyMzY5NTkzOzczOTk0MzEyOTU1ODEwNDQ3Mzk7NzU3MjUzNzQxMzI1Nzk1NTYyNTsxLzE)

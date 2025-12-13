@@ -7,6 +7,4 @@ tags:
 
 ### Full-Stack Annotation for Driving Clips via Powerful Auto-Labeling and Smart Quality Inspection
 
-<!--more-->
-
 Detail goes here.
