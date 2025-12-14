@@ -6,7 +6,7 @@ tags:
 image:
   preview_only: true
 summary: |
-  We maintain an Editable Generative Reconstruction framework for Closed-loop Simulation.
+  We maintain a Generative Reconstruction framework for Closed-loop Simulation.
 ---
 
 With a series of recent works now accepted, published, and patented, we are pleased to introduce **Generative Reconstruction Suite v1.0** and present the complete technical picture behind it. This project builds upon our peer-reviewed papers — listed below and on my homepage — along with partially released code to support reproducibility and practical adoption. The suite has already been deployed within the Alibaba Autonomous Driving Lab to advance both perception systems and end-to-end driving algorithms. We welcome inquiries regarding collaboration or technical details.
