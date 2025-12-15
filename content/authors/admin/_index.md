@@ -155,4 +155,4 @@ Before joining NIO, I worked as a Director of the Alibaba Autonomous Driving Lab
 
 I received my Ph.D. in Computer Science from the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/prof_hu.htm). I earned my B.Eng. in Computer Science from Wuhan University, ranking first in our grade.
 
-> 🍀 I enjoy working with full-time researchers and highly motivated research interns. We are actively recruiting —— feel free to reach out via [Campus](https://nio.jobs.feishu.cn/s/2GJh8_GRN98) and [Social](https://nio.jobs.feishu.cn/s/Va_8lGqDYVQ) Links.
+> 🍀 I enjoy working with full-time researchers and highly motivated research interns. We are actively recruiting —— feel free to reach out via [Intern](https://nio.jobs.feishu.cn/s/qI2BhDneY0U), [Campus](https://nio.jobs.feishu.cn/s/2GJh8_GRN98) and [Social](https://nio.jobs.feishu.cn/s/Va_8lGqDYVQ) Links.
