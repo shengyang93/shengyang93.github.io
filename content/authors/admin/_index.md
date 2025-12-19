@@ -38,9 +38,9 @@ profiles:
     url: https://www.linkedin.com/in/shengyang93/
 
 interests:
+  - World Foundation Model
   - Spatial Representation Learning
-  - Reinforcement with World Models
-  - Visual-Language-Action Models
+  - Generation / Perception / Action
 
 work:
   - position: Principal Algorithm Expert & Founding Director
