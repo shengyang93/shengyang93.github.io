@@ -10,7 +10,7 @@ authors:
 - Yiru Zhao
 - Minghua Liu
 - Baorui Ma
-- Sheng Yang
+- admin
 # Author notes (optional)
 author_notes:
   - "*"
